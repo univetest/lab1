@@ -1,7 +1,11 @@
-!!Lab 1 git repository!!
-
-Good job!
-Very Good Job!
-
-Making some changes!
-New branch
+Я почав робити лабораторну ще до пари, тому зробив її використовуючи текст не по варіанту
+Hyundai
+Isuzu
+Volkswagen
+Scania
+Hino
+Iveco
+BAW
+ГАЗ
+МАЗ
+КамАЗ
